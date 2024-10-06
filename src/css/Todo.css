@@ -20,3 +20,13 @@
     font-size: 23px;
     cursor: pointer;
 }
+
+.todo-input2 {
+    width: 420px;
+    outline: none;
+    border-radius: 6px;
+    border: none;
+    padding: 8px 0px;
+
+
+}
